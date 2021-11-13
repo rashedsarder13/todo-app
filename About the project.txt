@@ -1,0 +1,16 @@
+This is a complete todo-list making app project with a beautiful ui.
+I use
+1. ReactJS
+2. JSX (JavaScript HTML)
+3. CSS
+4. Local Browser as Data store and management.
+
+React JS Funtionality:
+
+Arrow Function
+Map
+Spread Operator
+Uses Of InputField
+useState in Array
+useEffect
+Add, Update, Delete items from Database and UI
